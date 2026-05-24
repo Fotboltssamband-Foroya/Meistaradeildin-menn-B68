@@ -13,7 +13,7 @@ data = response.json()
 calendar = Calendar()
 tz = pytz.timezone("Atlantic/Faroe")
 
-INFO_URL = "https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/"
+INFO_URL = "https://www.fsf.fo/kappingar-og-urslit"
 
 for match in data.get("results", []):
     timestamp = match.get("matchDate")
