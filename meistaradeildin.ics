@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 9\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 26\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
 DURATION:PT2H
 LOCATION:á Dungasandi
-DTSTART:20260510T161500Z
-SUMMARY:07 Vestur - B68 0:2
-UID:4b77dc29-320b-48d9-9481-690e7a307f22@4b77.org
+DTSTART:20261025T150000Z
+SUMMARY:07 Vestur - B68 -:-
+UID:bbd07aa4-7225-42cd-a430-e98d5b3d463f@bbd0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 1\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
@@ -15,271 +15,7 @@ DURATION:PT2H
 LOCATION:á Eiðinum
 DTSTART:20260406T131500Z
 SUMMARY:FC Suðuroy - B68 1:2
-UID:ba00956a-2b6c-49da-8ed0-e04af79e330d@ba00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 12\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:Svangaskarð\, ovari vøllur
-DTSTART:20260627T160000Z
-SUMMARY:B68 - FC Suðuroy 3:0
-UID:a261739f-217a-441c-beef-b9057faad563@a261.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 13\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:inni í Vika
-DTSTART:20260926T230000Z
-SUMMARY:AB - B68 -:-
-UID:f0382783-811a-455a-a140-af093ee9b2f6@f038.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 9\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:Svangaskarð\, ovari vøllur
-DTSTART:20260529T184500Z
-SUMMARY:B68 - 07 Vestur 3:4
-UID:fe57d67a-bba7-4888-adad-62a534e04ddd@fe57.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 20\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:á Dungasandi
-DTSTART:20261008T230000Z
-SUMMARY:07 Vestur - B68 -:-
-UID:6a19e03b-f835-45e2-9aaa-4e3203c1cf91@6a19.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 15\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:Svangaskarð\, ovari vøllur
-DTSTART:20260629T173000Z
-SUMMARY:B68 - AB 0:1
-UID:a473b4d8-1368-4345-8130-3e6dbceae915@a473.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 18\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:í Sarpugerði
-DTSTART:20260809T140000Z
-SUMMARY:Víkingur - B68 2:1
-UID:2660ecfd-902b-4de4-8ec6-4903cd0a2392@2660.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 17\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:í Sarpugerði
-DTSTART:20260904T230000Z
-SUMMARY:Víkingur - B68 -:-
-UID:9f82ac9a-b46c-45fa-9f81-572d1beb1a4c@9f82.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 22\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:í Fløtugerði
-DTSTART:20261023T230000Z
-SUMMARY:ÍF - B68 -:-
-UID:41a1c322-dd09-4726-8e4a-7ce3da8c5d86@41a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 19\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:Svangaskarð\, ovari vøllur
-DTSTART:20260918T230000Z
-SUMMARY:B68 - Skála ÍF -:-
-UID:321b01a8-2c07-44cd-a9cd-5c936fde0f1e@321b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 19\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:Gundadalur\, ovari vøllur
-DTSTART:20260816T140000Z
-SUMMARY:HB - B68 2:0
-UID:ad0bffb0-4bcb-49c0-96e8-9d93226b54fb@ad0b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 8\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:Svangaskarð\, ovari vøllur
-DTSTART:20260503T161500Z
-SUMMARY:B68 - EB/Streymur 1:1
-UID:8769cf1f-d753-4877-bc7e-ede7e5093385@8769.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 20\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:Svangaskarð\, ovari vøllur
-DTSTART:20260823T161500Z
-SUMMARY:B68 - Skála ÍF -:-
-UID:37c981e1-48bc-4c37-96ca-5d4ee13b18ac@37c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 5\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:Svangaskarð\, ovari vøllur
-DTSTART:20260502T120000Z
-SUMMARY:B68 - Víkingur 2:5
-UID:5bcf6f35-e183-49a5-a8a2-6a9dc06368b1@5bcf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 13\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:við Margáir
-DTSTART:20260614T140000Z
-SUMMARY:EB/Streymur - B68 2:0
-UID:85190b94-1fd2-44ac-80dd-f9846d4fc697@8519.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 15\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:Svangaskarð\, ovari vøllur
-DTSTART:20260821T183000Z
-SUMMARY:B68 - KÍ -:-
-UID:4aa79377-d6ab-4e7b-94e6-0ee8cd0ef096@4aa7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 16\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:Svangaskarð\, ovari vøllur
-DTSTART:20260828T230000Z
-SUMMARY:B68 - MB -:-
-UID:03ac1cc9-4381-4269-9df7-df983d0ec728@03ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 12\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:Svangaskarð\, ovari vøllur
-DTSTART:20260530T180000Z
-SUMMARY:B68 - B36 4:4
-UID:f3d524ef-55dd-464f-9c4f-586d22a2a3e5@f3d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 17\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:Svangaskarð\, ovari vøllur
-DTSTART:20260802T161500Z
-SUMMARY:B68 - 07 Vestur 2:1
-UID:d298494f-00dc-424b-98b0-49f27022e712@d298.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 21\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:Svangaskarð\, ovari vøllur
-DTSTART:20261016T230000Z
-SUMMARY:B68 - B71 -:-
-UID:b65a9083-737b-4bf4-ac54-59c612825326@b65a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 4\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:Svangaskarð\, ovari vøllur
-DTSTART:20260404T173000Z
-SUMMARY:B68 - NSÍ 1:2
-UID:6d973242-2948-41e1-b5a4-f1a2ecc8ae30@6d97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 10\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:Svangaskarð\, ovari vøllur
-DTSTART:20260517T161500Z
-SUMMARY:B68 - KÍ 1:4
-UID:e27a1b7b-4f7a-4503-bd74-4c21a72ffd8a@e27a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 6\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:Svangaskarð\, ovari vøllur
-DTSTART:20260419T161500Z
-SUMMARY:B68 - HB 3:1
-UID:fea46564-1356-4a27-b5ec-14d61bd6df95@fea4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 22\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:inni í Vika
-DTSTART:20260911T173000Z
-SUMMARY:AB - B68 -:-
-UID:7178c432-8ec4-4e8a-91c5-28379b7e81d5@7178.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 16\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:undir Mýruhjalla
-DTSTART:20260704T173000Z
-SUMMARY:Skála ÍF - B68 1:0
-UID:8919a52d-30a8-4604-94b4-204da09d50c6@8919.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 24\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:Svangaskarð\, ovari vøllur
-DTSTART:20261011T161500Z
-SUMMARY:B68 - Víkingur -:-
-UID:caebf5b4-4eda-4bde-bf4a-730f6635c6fc@caeb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 7\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:í Sarpugerði
-DTSTART:20260426T140000Z
-SUMMARY:Víkingur - B68 2:2
-UID:a74c27ac-9501-4cf0-854f-0f46bbe2d86f@a74c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 8\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:undir Mýruhjalla
-DTSTART:20260523T123000Z
-SUMMARY:Skála ÍF - B68 2:2
-UID:66d7c583-543b-461e-8d18-6cfef68e73ce@66d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 6\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:MB Arena
-DTSTART:20260509T110000Z
-SUMMARY:MB - B68 0:4
-UID:584f9206-8df2-415f-9c93-9acd09b59afb@584f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 10\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:inni í Dal
-DTSTART:20260613T161500Z
-SUMMARY:B71 - B68 1:2
-UID:bc960fcb-46a3-45ee-8ad6-0f7063d8254d@bc96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 26\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:á Dungasandi
-DTSTART:20261025T150000Z
-SUMMARY:07 Vestur - B68 -:-
-UID:5ec7255b-e489-472c-bc81-e17dfc243b79@5ec7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 2\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:Svangaskarð\, ovari vøllur
-DTSTART:20260315T171500Z
-SUMMARY:B68 - Skála ÍF 2:1
-UID:5a365310-79ca-4946-9437-c36dfa9fa091@5a36.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 18\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:við Løkin
-DTSTART:20260911T230000Z
-SUMMARY:NSÍ - B68 -:-
-UID:6c2a9a69-13b2-45b1-95bb-6b54b918114e@6c2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 7\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:Svangaskarð\, ovari vøllur
-DTSTART:20260516T160000Z
-SUMMARY:B68 - NSÍ 5:1
-UID:71483b80-1e83-4fc8-a81f-0cf341a8bd10@7148.org
+UID:d052d55a-6170-4e23-8081-4ae8c92af058@d052.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 11\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
@@ -287,31 +23,7 @@ DURATION:PT2H
 LOCATION:Svangaskarð\, ovari vøllur
 DTSTART:20260526T173000Z
 SUMMARY:B68 - HB 0:1
-UID:4b9e4725-7002-45f0-82b8-c9d3301dfc13@4b9e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 21\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:Gundadalur\, ovari vøllur
-DTSTART:20260830T140000Z
-SUMMARY:B36 - B68 -:-
-UID:33397407-7655-4caf-8f72-c1e02f5bd264@3339.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 25\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:Djúpumýra
-DTSTART:20261018T140000Z
-SUMMARY:KÍ - B68 -:-
-UID:4a9c19a3-fdfd-451f-ba54-3271543a76b6@4a9c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 5\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:Djúpumýra
-DTSTART:20260411T173000Z
-SUMMARY:KÍ - B68 6:1
-UID:e3fdb89f-a89a-4a85-8758-adfb23333238@e3fd.org
+UID:3f88c99c-b73b-458a-b91f-54f12beb7706@3f88.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 3\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
@@ -319,31 +31,71 @@ DURATION:PT2H
 LOCATION:Svangaskarð\, ovari vøllur
 DTSTART:20260418T130000Z
 SUMMARY:B68 - AB 4:0
-UID:5a7bf5d9-f1d3-4d01-9bf1-805b66f06042@5a7b.org
+UID:66a60451-fc71-4ed1-b4bc-4b4f0f5126f7@66a6.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 3\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:Gundadalur\, ovari vøllur
-DTSTART:20260321T170000Z
-SUMMARY:B36 - B68 6:0
-UID:66af5b47-6000-4d89-a26c-1d0da9b9e803@66af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 23\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:Svangaskarð\, ovari vøllur
-DTSTART:20260919T143000Z
-SUMMARY:B68 - EB/Streymur -:-
-UID:8551318f-399c-408c-b39c-1ee21a36b3a2@8551.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 14\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 18\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
 DURATION:PT2H
 LOCATION:við Løkin
-DTSTART:20260620T180000Z
-SUMMARY:NSÍ - B68 1:0
-UID:0fd16fd0-21f7-4bec-8d68-e43ff5b0eb4e@0fd1.org
+DTSTART:20260911T230000Z
+SUMMARY:NSÍ - B68 -:-
+UID:0c922618-3a9a-4063-9009-d257c4ce8897@0c92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 13\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:inni í Vika
+DTSTART:20260926T230000Z
+SUMMARY:AB - B68 -:-
+UID:345635ee-5a41-452d-856f-9f429c68d01f@3456.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 7\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:í Sarpugerði
+DTSTART:20260426T140000Z
+SUMMARY:Víkingur - B68 2:2
+UID:9719f3bc-3b8c-4fc8-bff2-3ca1a6a03246@9719.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 21\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:Svangaskarð\, ovari vøllur
+DTSTART:20261016T230000Z
+SUMMARY:B68 - B71 -:-
+UID:369b04e6-25fd-4f4f-9721-2675a42247b0@369b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 10\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:inni í Dal
+DTSTART:20260613T161500Z
+SUMMARY:B71 - B68 1:2
+UID:dfcc3f2f-ffb2-4e51-8844-70e85d85b4c9@dfcc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 18\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:í Sarpugerði
+DTSTART:20260809T140000Z
+SUMMARY:Víkingur - B68 2:1
+UID:9c2b60c8-236f-4e7d-9d8f-c959cd87714d@9c2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 15\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:Svangaskarð\, ovari vøllur
+DTSTART:20260629T173000Z
+SUMMARY:B68 - AB 0:1
+UID:3f21bca1-dae0-4368-a73e-5703bc77d4dc@3f21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 10\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:Svangaskarð\, ovari vøllur
+DTSTART:20260517T161500Z
+SUMMARY:B68 - KÍ 1:4
+UID:b9c1959e-666e-4997-8507-be59bf759448@b9c1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 1\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
@@ -351,15 +103,7 @@ DURATION:PT2H
 LOCATION:inni í Vika
 DTSTART:20260307T164500Z
 SUMMARY:AB - B68 2:0
-UID:21e6cc5e-8c35-4226-ba45-bc67c2e204ca@21e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 4\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
-DURATION:PT2H
-LOCATION:Djúpumýra
-DTSTART:20260424T180000Z
-SUMMARY:KÍ - B68 2:1
-UID:a7e64238-15a8-4981-bf13-ee945dce8f35@a7e6.org
+UID:a3c79f53-8fd9-48ad-b58e-910040c1b4f5@a3c7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 11\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
@@ -367,7 +111,255 @@ DURATION:PT2H
 LOCATION:Svangaskarð\, ovari vøllur
 DTSTART:20260620T130000Z
 SUMMARY:B68 - ÍF 4:2
-UID:e8edab6c-9434-4ee1-8dcd-fb0a1a75b225@e8ed.org
+UID:a48b0f28-8fa3-4bac-851f-3eb88e82b98c@a48b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 4\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:Svangaskarð\, ovari vøllur
+DTSTART:20260404T173000Z
+SUMMARY:B68 - NSÍ 1:2
+UID:397572b5-1b1b-4bad-aa00-368b2ea50f82@3975.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 7\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:Svangaskarð\, ovari vøllur
+DTSTART:20260516T160000Z
+SUMMARY:B68 - NSÍ 5:1
+UID:adc09a4b-8611-4e70-8090-b9ec5bb51147@adc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 16\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:undir Mýruhjalla
+DTSTART:20260704T173000Z
+SUMMARY:Skála ÍF - B68 1:0
+UID:7b16981c-84ec-4227-b7c4-3debc8e3f2bc@7b16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 17\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:í Sarpugerði
+DTSTART:20260904T230000Z
+SUMMARY:Víkingur - B68 -:-
+UID:27c16c4b-42a1-422e-9b9b-9dd8c6ce6968@27c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 17\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:Svangaskarð\, ovari vøllur
+DTSTART:20260802T161500Z
+SUMMARY:B68 - 07 Vestur 2:1
+UID:401e2b1c-69af-4786-bfb6-66e0cd3aeadd@401e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 8\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:Svangaskarð\, ovari vøllur
+DTSTART:20260503T161500Z
+SUMMARY:B68 - EB/Streymur 1:1
+UID:64a661e9-95aa-4208-bd88-b37ac454c782@64a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 20\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:á Dungasandi
+DTSTART:20261008T230000Z
+SUMMARY:07 Vestur - B68 -:-
+UID:4d1dd191-d6ba-4da1-8b55-1111d197e593@4d1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 2\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:Svangaskarð\, ovari vøllur
+DTSTART:20260315T171500Z
+SUMMARY:B68 - Skála ÍF 2:1
+UID:d598dce9-b035-44f8-8eac-095ef0cc35b3@d598.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 21\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:Gundadalur\, ovari vøllur
+DTSTART:20260830T140000Z
+SUMMARY:B36 - B68 -:-
+UID:88fe92fc-6fdb-4e10-8666-4be067d1843d@88fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 12\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:Svangaskarð\, ovari vøllur
+DTSTART:20260627T160000Z
+SUMMARY:B68 - FC Suðuroy 3:0
+UID:20a77191-0c4c-416d-92ec-8e2b8660b8e3@20a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 19\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:Svangaskarð\, ovari vøllur
+DTSTART:20260918T230000Z
+SUMMARY:B68 - Skála ÍF -:-
+UID:ea0f7653-a905-48cc-8817-a1560b348126@ea0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 12\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:Svangaskarð\, ovari vøllur
+DTSTART:20260530T180000Z
+SUMMARY:B68 - B36 4:4
+UID:ea5ca247-e8f9-49af-ac50-4bc5ada248e3@ea5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 22\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:í Fløtugerði
+DTSTART:20261023T230000Z
+SUMMARY:ÍF - B68 -:-
+UID:baee9e87-8150-4160-b515-9b932fedbc4b@baee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 6\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:Svangaskarð\, ovari vøllur
+DTSTART:20260419T161500Z
+SUMMARY:B68 - HB 3:1
+UID:bc4869cd-3f88-483f-a0ae-6f385e6329d7@bc48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 14\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:við Løkin
+DTSTART:20260620T180000Z
+SUMMARY:NSÍ - B68 1:0
+UID:6703bd01-a811-45a3-b20d-55304a2832fc@6703.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 25\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:Djúpumýra
+DTSTART:20261018T140000Z
+SUMMARY:KÍ - B68 -:-
+UID:16f99c90-682f-4775-b24b-c3b63732d03b@16f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 3\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:Gundadalur\, ovari vøllur
+DTSTART:20260321T170000Z
+SUMMARY:B36 - B68 6:0
+UID:fe29be09-a748-477b-8ac9-7a98853ea468@fe29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 20\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:Svangaskarð\, ovari vøllur
+DTSTART:20260823T161500Z
+SUMMARY:B68 - Skála ÍF -:-
+UID:158e346a-5306-4bb4-84ff-252f64ae175f@158e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 9\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:á Dungasandi
+DTSTART:20260510T161500Z
+SUMMARY:07 Vestur - B68 0:2
+UID:0fefc472-82a4-4d0c-b09f-e82bfe7e1ebe@0fef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 22\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:inni í Vika
+DTSTART:20260911T173000Z
+SUMMARY:AB - B68 -:-
+UID:a4a4bf68-e1c0-49aa-9e61-5cf492fc367b@a4a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 16\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:Svangaskarð\, ovari vøllur
+DTSTART:20260828T230000Z
+SUMMARY:B68 - MB -:-
+UID:6a63c4f1-f56e-4070-843a-1f01f2145511@6a63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 6\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:MB Arena
+DTSTART:20260509T110000Z
+SUMMARY:MB - B68 0:4
+UID:023b946d-cba7-4cd8-bbdc-9f5e95d185fb@023b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 13\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:við Margáir
+DTSTART:20260614T140000Z
+SUMMARY:EB/Streymur - B68 2:0
+UID:03870e6d-e121-47b0-ba5e-982f23bc8e07@0387.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 23\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:Svangaskarð\, ovari vøllur
+DTSTART:20260919T143000Z
+SUMMARY:B68 - EB/Streymur -:-
+UID:1aee112f-765e-47cb-b0a8-c1daa9d16411@1aee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 8\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:undir Mýruhjalla
+DTSTART:20260523T123000Z
+SUMMARY:Skála ÍF - B68 2:2
+UID:9b3d9c93-54b4-4a2b-8b15-fd53cede8e85@9b3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 15\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:Svangaskarð\, ovari vøllur
+DTSTART:20260821T183000Z
+SUMMARY:B68 - KÍ -:-
+UID:b51da5df-809c-433b-b714-d1cd2c1d6339@b51d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 4\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:Djúpumýra
+DTSTART:20260424T180000Z
+SUMMARY:KÍ - B68 2:1
+UID:a85a63ec-70d0-4060-b511-39bf853ff8e4@a85a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 5\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:Svangaskarð\, ovari vøllur
+DTSTART:20260502T120000Z
+SUMMARY:B68 - Víkingur 2:5
+UID:282d16ee-a315-48c2-b9a7-e3e32606584f@282d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 5\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:Djúpumýra
+DTSTART:20260411T173000Z
+SUMMARY:KÍ - B68 6:1
+UID:75980eb0-af21-4117-8630-7bdb0b3af92c@7598.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 19\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:Gundadalur\, ovari vøllur
+DTSTART:20260816T140000Z
+SUMMARY:HB - B68 2:0
+UID:3861df66-b2f5-4d33-ac6c-b3a8ac38c927@3861.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Landskapping menn // 2.deild\n🔁 Umfar: 9\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:Svangaskarð\, ovari vøllur
+DTSTART:20260529T184500Z
+SUMMARY:B68 - 07 Vestur 3:4
+UID:83c56b6d-b83c-40ff-aa50-7ddd44ed54c1@83c5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 27\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
@@ -375,6 +367,14 @@ DURATION:PT2H
 LOCATION:Svangaskarð\, ovari vøllur
 DTSTART:20261031T150000Z
 SUMMARY:B68 - NSÍ -:-
-UID:80d3a90e-b107-4390-a41d-4c7b8f114801@80d3.org
+UID:e05dc4e9-09dd-44fd-b763-263c712d29c9@e05d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 24\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit
+DURATION:PT2H
+LOCATION:Svangaskarð\, ovari vøllur
+DTSTART:20261011T161500Z
+SUMMARY:B68 - Víkingur -:-
+UID:4cfa3778-fd83-4d87-9eba-7ab22d4e0e85@4cfa.org
 END:VEVENT
 END:VCALENDAR
